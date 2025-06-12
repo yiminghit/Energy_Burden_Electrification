@@ -1,0 +1,109 @@
+﻿Characteristics,Estimate
+      Total,2090.60
+,
+Rooms,
+,
+1,S
+2,23.40
+3,265.40
+4,468.90
+5,481.40
+6,362.10
+7,277.10
+8,138.60
+9,51.90
+10 or more,14.70
+,
+Persons per Room,
+,
+0.50 or less,1358.70
+0.51 to 1.00,685.80
+1.01 to 1.50,40.10
+1.51 or more,S
+,
+Bedrooms,
+,
+None,14.40
+1,336.30
+2,657.30
+3,693.30
+4 or more,389.30
+,
+Persons per Bedroom,
+,
+0.50 or less,448.60
+0.51 to 1.00,988.40
+1.01 to 1.50,355.60
+1.51 or more,283.50
+No bedrooms,14.40
+,
+Bathrooms,
+,
+At least 1 complete bathroom,2090.60
+1,530.90
+1 1/2,133.40
+2,932.50
+2 1/2,243.70
+3,201.90
+  More than 3,48.00
+No complete bathroom,.
+  Sink and toilet present,.
+  Tub and toilet present,.
+  Toilet only present,.
+"  No sink, bathtub, shower, or toilet present",.
+,
+Square Footage of Unit,
+,
+Less than 500,53.80
+500 to 749,171.20
+750 to 999,340.60
+"1,000 to 1,499",537.70
+"1,500 to 1,999",380.30
+"2,000 to 2,499",240.40
+"2,500 to 2,999",115.90
+"3,000 to 3,999",87.40
+"4,000 or more",41.70
+Not reported,121.60
+Median (square feet),1369.00
+,
+Square Feet per Person,
+,
+Less than 200,57.20
+200 to 299,167.70
+300 to 399,232.20
+400 to 499,250.30
+500 to 599,207.60
+600 to 699,166.80
+700 to 799,160.60
+800 to 899,135.60
+900 to 999,114.90
+"1,000 to 1,499",302.80
+"1,500 or more",173.30
+Not reported,121.60
+Median (square feet),628.00
+,
+Lot Size,
+,
+      1-unit structures,1119.40
+Less than 1/8 acre,253.90
+1/8 up to 1/4 acre,647.60
+1/4 up to 1/2 acre,153.00
+1/2 up to 1 acre,24.30
+1 up to 5 acres,31.30
+5 up to 10 acres,S
+10 acres or more,S
+,
+Selected Amenities,
+,
+"Porch, deck, balcony, or patio",1792.80
+Usable fireplace,77.40
+Separate dining room,886.90
+"With 2 or more living rooms or recreation rooms, etc.",479.10
+,
+Vehicle Parking,
+,
+Garage or carport,1005.40
+,
+Phone Service,
+,
+Cell phone available,1831.30
