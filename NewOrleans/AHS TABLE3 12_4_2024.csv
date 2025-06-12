@@ -1,0 +1,149 @@
+﻿Characteristics,Estimate
+      Total,501.50
+,
+Units Using Each Fuel,
+,
+Electricity,501.50
+Gas,295.40
+Fuel oil,S
+Other,9.50
+,
+Main Heating Equipment,
+,
+Warm-air furnace,417.70
+Steam or hot water system,S
+Electric heat pump,43.70
+Built-in electric units,S
+"Floor, wall, or other built-in hot-air units without ducts",15.40
+Room heaters with flue,S
+Room heaters without flue,4.90
+Portable electric heaters,13.20
+Stoves,S
+Fireplaces with inserts,.
+Fireplaces without inserts,.
+Cooking stove,S
+Other,S
+None,.
+,
+Main House Heating Fuel,
+,
+      Housing units with heating fuel,501.50
+Electricity,335.90
+Piped gas,160.40
+Bottled gas,S
+Fuel oil,.
+Kerosene or other liquid fuel,S
+Coal or coke,.
+Wood,S
+Solar energy,S
+Other,.
+,
+Supplemental Heating Equipment,
+,
+Warm-air furnace,10.20
+Steam or hot water system,.
+Electric heat pump,S
+Built-in electric units,S
+"Floor, wall, or other built-in hot-air units without ducts",S
+Room heaters with flue,S
+Room heaters without flue,S
+Portable electric heaters,14.20
+Stoves,S
+Outdoor wood fired boiler,.
+Gas oven with the door open,S
+Cooking stove,49.70
+Other,S
+Not reported,S
+No supplemental heating,423.40
+,
+Primary Air Conditioning,
+,
+With primary air conditioning,498.50
+  Central air conditioning,463.90
+    Powered by:,
+      Electric,450.90
+      Piped gas,12.40
+      Liquid propane gas,S
+      Other,.
+  Room air conditioning,34.60
+    Unit has 1 room air conditioner,6.10
+    Unit has 2 room air conditioners,11.70
+    Unit has 3 room air conditioners,8.40
+    Unit has 4 room air conditioners,4.60
+    Unit has 5 room air conditioners,S
+    Unit has 6 room air conditioners,S
+    Unit has 7 or more room air conditioners,S
+Unit does not have air conditioning,3.00
+,
+Secondary Air Conditioning,
+,
+With secondary air conditioning,97.50
+  Central air conditioning,64.40
+    Powered by:,
+      Electric,62.60
+      Piped gas,S
+      Liquid propane gas,.
+      Other,.
+  Room air conditioning,33.10
+    Unit has 1 room air conditioner,19.80
+    Unit has 2 room air conditioners,8.40
+    Unit has 3 room air conditioners,S
+    Unit has 4 room air conditioners,S
+    Unit has 5 room air conditioners,S
+    Unit has 6 room air conditioners,S
+    Unit has 7 or more room air conditioners,.
+Unit does not have secondary air conditioning,404.10
+,
+Water Heating Fuel,
+,
+      With hot piped water,501.30
+Electricity,292.30
+Piped gas,202.80
+Bottled gas,5.60
+Fuel oil,S
+Solar energy,S
+Other,S
+,
+Kitchen Equipment,
+,
+"With complete kitchen (sink, refrigerator, and oven or burners)",497.60
+Lacking complete kitchen facilities,3.90
+Kitchen sink,501.20
+Refrigerator,500.30
+Cooking stove or range,497.50
+"Burners, no stove or range",S
+Microwave oven only,S
+Dishwasher,406.90
+,
+Laundry Equipment,
+,
+Washing machine,464.20
+Clothes dryer,461.70
+,
+Cooking Fuel,
+,
+      With cooking fuel,501.10
+Electricity,291.90
+Piped gas,201.30
+Bottled gas,7.90
+Other,.
+,
+Clothes Dryer Fuel,
+,
+      With clothes dryer,461.70
+Electricity,331.70
+Piped gas,127.40
+Bottled gas,S
+Other,S
+,
+Carbon Monoxide Detector,
+,
+Yes,288.60
+No,205.00
+Not reported,7.90
+,
+Solar Panels,
+,
+Yes,25.70
+No,473.00
+Not reported,2.90
