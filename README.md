@@ -34,6 +34,11 @@ The following R scripts simulate household electricity consumption under four co
 ---
 
 ### Energy Burden Calculation
+CHHW: Current HVAC with Historical Weather;  
+CHFW: Current HVAC with Future Weather;  
+FHHW: Future HVAC with Historical Weather;  
+FHFW: Future HVAC with Future Weather;  
+
 
 - `Stepn_Energy_Burden_CHFW.R`:  
   Computes the annual electricity bill for each household based on the fitted probability table.  
