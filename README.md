@@ -65,4 +65,4 @@ FHFW: Future HVAC with Future Weather;
 
 ## Contact
 
-For questions about this code, please contact the corresponding authors of the paper.
+For questions about this code, please contact yiminghit@gmail.com.
